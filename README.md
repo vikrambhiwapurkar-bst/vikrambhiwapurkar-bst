@@ -37,3 +37,6 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
     <img src="https://img.shields.io/badge/-Vikram Bhiwapurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vikram-bhiwapurkar/" />
   </a>
 </p>
+
+![Vikram Bhiwapurkar](https://raw.githubusercontent.com/VikramBhiwapurkar/VikramBhiwapurkar/main/bottom_header.svg)
+<br>
